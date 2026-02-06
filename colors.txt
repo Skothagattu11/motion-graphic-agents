@@ -1,0 +1,47 @@
+
+## COLOR PALETTE
+
+**Primary:**
+- Deep Teal #1A3A3A — headers, primary buttons, key UI
+- Graphite #2D2D2D — body text, grounding elements
+- Slate Teal #2E5555 — hover states, depth layers
+
+**Neutrals:**
+- Off-White #FAFAF8 — main canvas, hero backgrounds
+- Fog Grey #F2F2EF — card backgrounds, section dividers
+- Mist White #E8E8E4 — input fields, layered surfaces
+- Soft Stone #D4D4CF — dividers, thin borders
+
+**Accents:**
+- Soft Amber #E8A86B — CTAs, progress indicators, highlights
+- Pale Coral #F4C9A3 — badges, soft highlights
+- Sunrise Gold #D4955A — premium features, energy peaks
+
+**Semantic:**
+- Sage Green #6B9B7A — success, completion, recovery
+- Muted Ochre #C4A35A — caution, energy dips
+- Twilight Blue #5A7A8C — sleep data, calm zones
+
+**Gradients:**
+- Hero Fade: #1A3A3A → #2E5555 → #FAFAF8
+- Card Glow: #FAFAF8 → #F2F2EF
+- Progress Arc: #E8A86B → #D4955A
+- Calm Overlay: rgba(26,58,58,0.85) → transparent
+
+**Typography Colors:**
+- Headlines: Graphite #2D2D2D
+- Body: Graphite @ 85% #3D3D3D
+- Captions: Graphite @ 60% #6B6B6B
+- On Dark: Off-White #FAFAF8
+- Links: Deep Teal #1A3A3A
+- Accent: Soft Amber #E8A86B
+
+---
+
+## VISUAL IDENTITY
+
+**Style:** Minimal, calm, premium, high whitespace, thin-line icons, geometric shapes, soft gradients (fog grey, mist white, teal → graphite fade), soft amber/coral pops for highlights. Human silhouettes used sparingly — always calm, natural.
+
+**Inspirations:** Apple product marketing, WHOOP performance visuals, Strava data-share tiles, Notion minimalism, scientific calmness (biometrics, rhythms, waveforms), wellness as identity/ritual.
+
+**Typography:** Geometric sans-serif, thin-weight, clean hierarchy
