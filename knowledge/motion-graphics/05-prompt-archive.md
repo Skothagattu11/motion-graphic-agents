@@ -772,7 +772,7 @@ Card indicators animate DURING their card's transform (same moment).
   3. Discipline Battery → Systems over Willpower
   4. 90 Days of Proof → Measurable Proof
   5. App Graveyard → Lifelong Operating System
-- TOFU foundation COMPLETE. Ready for MOFU shift.
+- TOFU foundation COMPLETE. Piece #6 bridges TOFU→MOFU.
 - MOFU candidates: Protocol breakdowns, "How the system works" deep dives,
   user journey walkthroughs, specific ritual/protocol education content
 
@@ -786,6 +786,352 @@ Card indicators animate DURING their card's transform (same moment).
   of the entropy→order brand principle. Could become the signature animation.
 - "This is the last system you'll need" is a stronger identity-lock CTA than
   "Follow for the protocol" -- use for closing/capstone content.
+
+---
+
+## PIECE #6: Dual-Layer Data Story - "What's Actually Running Your Best Day"
+
+**Type**: TOFU→MOFU Bridge - Energy Architecture Visualization
+**Format**: 9:16 (1080x1920) | 34s | Instagram Reels / TikTok / Shorts
+**Tool**: Vibe Motion (primary)
+**Status**: v1 - Most complex piece yet. Split-screen dual-layer format.
+
+### Concept Overview
+A split-screen format that shows a typical high-performer's day from TWO perspectives simultaneously: the visible schedule (top half) and the invisible energy data running beneath it (bottom half). The piece reveals that every "great day" has a hidden architecture — your energy data — and that ENTROPY makes it visible.
+
+### What's New (Creative Firsts)
+- **Split-screen dual-layer format** — first time using divided canvas
+- **Synchronized beats** — paired activity + energy data, not sequential scenes
+- **Color-coded zone progression** — sage green → muted ochre → twilight blue
+- **Insight annotations** — text overlaying the divider line at key moments
+- **Reveal climax** — data layer expands, schedule fades (role reversal)
+- **Architecture metaphor** — positions energy data as the structural foundation of a day
+
+### Visual Motif
+Horizontal divider splitting the screen into schedule (top) and energy stream (bottom). The divider itself becomes a surface for insight annotations. At the climax, the bottom layer (energy) expands to fill the screen — revealing that the data was always the real story.
+
+### Hook Strategy
+- Type: Visual question + split reveal
+- Opening: "What's actually running your best day?" appears center-screen
+- The split opens like a curtain — schedule slides up, energy data slides down
+- Mute-effective: Yes — text-driven, color-coded zones are self-explanatory
+
+### The 9 Beats (Activity + Energy Pairs)
+
+| Beat | Top (Schedule) | Bottom (Energy) | Zone Color |
+|------|---------------|-----------------|------------|
+| 1 | 6:00 AM — Wake | Recovery Score: 84 | Sage Green #6B9B7A |
+| 2 | 6:30 AM — Cold Exposure Protocol | HRV: 68ms ↑ | Sage Green #6B9B7A |
+| 3 | 7:15 AM — Deep Work Block | Focus Index: 92 | Sage Green #6B9B7A |
+| 4 | 9:30 AM — Back-to-back meetings | Energy: declining → 61 | Muted Ochre #C4A35A |
+| 5 | 11:00 AM — "Quick lunch at desk" | Strain: 14.2 (overtrained) | Muted Ochre #C4A35A |
+| 6 | 1:30 PM — Strategy session | Cognitive load: HIGH | Muted Ochre #C4A35A |
+| 7 | 3:00 PM — Scheduled recovery | Energy: recovering → 72 | Sage Green #6B9B7A |
+| 8 | 5:30 PM — Evening wind-down | Parasympathetic shift detected | Twilight Blue #5A7A8C |
+| 9 | 9:00 PM — Sleep protocol | Sleep readiness: 91 | Twilight Blue #5A7A8C |
+
+### Insight Annotations (Overlay the Divider)
+- After Beat 3: "This is where most people stop looking."
+- After Beat 5: "The schedule said fine. The data said otherwise."
+- After Beat 7: "Recovery isn't a break. It's architecture."
+
+### Full Prompt (v1)
+
+```
+=== VIBE MOTION PROMPT ===
+[Title]: ENTROPY Dual-Layer Data Story - "What's Actually Running Your Best Day"
+[Format]: 1080x1920 (9:16) | 34 seconds | Vertical Reel
+
+[Description]:
+Create a 34-second vertical motion graphic (1080x1920, 9:16) for a premium
+wellness brand called ENTROPY.
+
+OVERALL STYLE: Ultra-minimal, premium, high-whitespace design on an off-white
+(#FAFAF8) canvas. Think Apple keynote aesthetics meets health data
+visualization. Typography-driven with thin-line geometric accents. No dark
+backgrounds. Clean, calm, scientific, premium. ALL text must be large and
+bold -- designed to be read at arm's length on a phone. No emojis anywhere.
+Geometric shapes and thin-line icons only.
+
+CRITICAL ANIMATION RULE: Animations are STRICTLY SEQUENTIAL. No two independent
+animations may run at the same time. When one element finishes animating, wait
+400ms, THEN start the next animation. Use "ONLY THEN", "AFTER", "WAIT UNTIL"
+language throughout. Previous text must fade OUT before new text fades IN.
+
+---
+
+SCENE 1 (0.0–3.0s): HOOK — THE QUESTION
+
+[Phase A: 0.0–1.5s]
+- Off-white (#FAFAF8) canvas, completely clean
+- Text fades in, center-screen, one line at a time:
+  Line 1: "What's actually running"
+  Font: General Sans Bold, color #2D2D2D (graphite), 80% screen width
+  Fade in over 600ms. Hold 400ms.
+  ONLY THEN Line 2: "your best day?"
+  Same style, same size. Fade in over 600ms. Hold 600ms.
+
+[Phase B: 1.5–3.0s]
+- Both lines hold for 400ms.
+- ONLY THEN: A thin horizontal line (#D4D4CF, 1px) draws from left edge to
+  right edge across the exact vertical center of the screen. Drawing animation
+  takes 800ms, ease-in-out.
+- ONLY THEN: The question text fades out over 500ms.
+- The divider line remains. This line will persist through Scenes 2–6.
+
+---
+
+SCENE 2 (3.0–5.5s): THE SPLIT OPENS
+
+[Phase A: 3.0–4.0s]
+- The divider line is at vertical center.
+- ABOVE the line: Label fades in at top-left corner:
+  "YOUR SCHEDULE" — General Sans Medium, #1A3A3A, 12px caps, letter-spacing 3px
+  Fade in 500ms.
+
+[Phase B: 4.0–5.0s]
+- ONLY THEN, BELOW the line: Label fades in at bottom-left corner:
+  "YOUR ENERGY DATA" — General Sans Medium, #1A3A3A, 12px caps, letter-spacing 3px
+  Fade in 500ms.
+
+[Phase C: 5.0–5.5s]
+- Hold both labels visible. 500ms breathing pause.
+- The stage is set: two layers, one screen.
+
+---
+
+SCENE 3 (5.5–14.0s): BEATS 1–5 — THE MORNING ARC
+
+Each beat follows this STRICT pattern:
+1. Activity card appears in TOP half (fade in 500ms)
+2. WAIT 400ms
+3. Energy data appears in BOTTOM half (fade in 500ms)
+4. WAIT 400ms
+5. Previous beat's elements fade out 400ms
+6. WAIT 400ms
+7. Next beat begins
+
+BEAT 1 (5.5–7.0s):
+- TOP: "6:00 AM" in JetBrains Mono Bold #1A3A3A (55% width), below it
+  "Wake" in General Sans Medium #2D2D2D (60% width of top half)
+- WAIT 400ms
+- BOTTOM: "Recovery Score" label in General Sans Medium #6B6B6B (40% width),
+  below it "84" counting up from 0 in JetBrains Mono Bold #6B9B7A (sage green),
+  55% width of bottom half. Small filled circle (#6B9B7A) to left of score.
+- Hold 600ms.
+
+BEAT 2 (7.0–8.5s):
+- Beat 1 fades out 400ms. WAIT 400ms.
+- TOP: "6:30 AM" + "Cold Exposure Protocol"
+- WAIT 400ms
+- BOTTOM: "HRV" label, "68ms ↑" in JetBrains Mono Bold #6B9B7A.
+  Thin upward arrow drawn as a 2px line stroke animation (300ms).
+- Hold 600ms.
+
+BEAT 3 (8.5–10.0s):
+- Beat 2 fades. WAIT 400ms.
+- TOP: "7:15 AM" + "Deep Work Block"
+- WAIT 400ms
+- BOTTOM: "Focus Index" label, "92" in JetBrains Mono Bold #6B9B7A.
+  Small thin-line bar chart (3 bars, ascending) draws left to right (400ms).
+- Hold 600ms.
+
+INSIGHT ANNOTATION 1 (10.0–11.5s):
+- All beat elements fade out 400ms. WAIT 400ms.
+- ON the divider line itself, centered: text appears
+  "This is where most people stop looking."
+  General Sans Medium Italic, #1A3A3A, 65% width.
+  Fade in 600ms. Hold 800ms. Fade out 400ms. WAIT 400ms.
+
+BEAT 4 (11.5–12.5s):
+- TOP: "9:30 AM" + "Back-to-back meetings"
+- WAIT 400ms
+- BOTTOM: "Energy" label, "declining → 61" in JetBrains Mono Bold #C4A35A
+  (muted ochre). Small downward trend line draws (300ms). Circle changes to
+  #C4A35A.
+- Hold 500ms.
+
+BEAT 5 (12.5–14.0s):
+- Beat 4 fades. WAIT 400ms.
+- TOP: "11:00 AM" + "Quick lunch at desk" (in quotes)
+- WAIT 400ms
+- BOTTOM: "Strain" label, "14.2" in JetBrains Mono Bold #C4A35A,
+  "(overtrained)" in General Sans Regular #C4A35A below.
+- Hold 600ms.
+
+---
+
+SCENE 4 (14.0–20.0s): BEATS 6–7 + INSIGHT 2 — THE MID-DAY TRUTH
+
+INSIGHT ANNOTATION 2 (14.0–15.5s):
+- All elements fade out 400ms. WAIT 400ms.
+- ON the divider line: "The schedule said fine. The data said otherwise."
+  General Sans Medium Italic, #1A3A3A, 70% width.
+  Fade in 600ms. Hold 800ms. Fade out 400ms.
+
+BEAT 6 (15.5–17.0s):
+- WAIT 400ms after insight fades.
+- TOP: "1:30 PM" + "Strategy session"
+- WAIT 400ms
+- BOTTOM: "Cognitive load" label, "HIGH" in JetBrains Mono Bold #C4A35A.
+  Three thin horizontal lines at different lengths (stress visualization),
+  drawing sequentially, 200ms each.
+- Hold 500ms.
+
+BEAT 7 (17.0–18.5s):
+- Beat 6 fades. WAIT 400ms.
+- TOP: "3:00 PM" + "Scheduled recovery"
+- WAIT 400ms
+- BOTTOM: "Energy" label, "recovering → 72" in JetBrains Mono Bold #6B9B7A
+  (back to sage green). Small upward trend line draws (300ms). Circle returns
+  to #6B9B7A.
+- Hold 500ms.
+
+INSIGHT ANNOTATION 3 (18.5–20.0s):
+- All elements fade out 400ms. WAIT 400ms.
+- ON the divider line: "Recovery isn't a break. It's architecture."
+  General Sans Medium Italic, #1A3A3A, 65% width.
+  Fade in 600ms. Hold 800ms. Fade out 400ms.
+
+---
+
+SCENE 5 (20.0–23.5s): BEATS 8–9 — THE WIND-DOWN
+
+BEAT 8 (20.0–21.5s):
+- WAIT 400ms.
+- TOP: "5:30 PM" + "Evening wind-down"
+- WAIT 400ms
+- BOTTOM: "Parasympathetic shift detected" in General Sans Medium #5A7A8C
+  (twilight blue). A soft sine wave draws slowly across bottom half (600ms),
+  color #5A7A8C.
+- Hold 600ms.
+
+BEAT 9 (21.5–23.5s):
+- Beat 8 fades. WAIT 400ms.
+- TOP: "9:00 PM" + "Sleep protocol"
+- WAIT 400ms
+- BOTTOM: "Sleep Readiness" label, "91" in JetBrains Mono Bold #5A7A8C.
+  Circle indicator: #5A7A8C. Three thin concentric arcs draw around the number
+  (500ms, staggered 150ms each).
+- Hold 800ms.
+
+---
+
+SCENE 6 (23.5–28.0s): THE REVEAL — DATA EXPANDS
+
+[Phase A: 23.5–24.5s]
+- All beat elements fade out 400ms. WAIT 400ms.
+- The divider line begins to move UPWARD — slowly, deliberately.
+  Over 1200ms (ease-in-out), the line moves from center to about 15% from top.
+  The "YOUR SCHEDULE" label fades out as the space shrinks.
+  The "YOUR ENERGY DATA" label grows slightly (fade to larger size).
+
+[Phase B: 24.5–26.0s]
+- ONLY THEN: In the now-expanded bottom area (85% of screen), a simplified
+  24-hour energy curve draws from left to right.
+  The curve uses three color segments:
+  - Morning peak: #6B9B7A (sage green)
+  - Mid-day dip: #C4A35A (muted ochre)
+  - Evening wind-down: #5A7A8C (twilight blue)
+  Curve draws over 1500ms, smooth, continuous.
+  Thin vertical dotted lines mark the key beats (6AM, 7:15, 9:30, 3PM, 9PM).
+
+[Phase C: 26.0–28.0s]
+- ONLY THEN: Below the curve, centered:
+  "Every great day has architecture."
+  General Sans Bold, #1A3A3A (deep teal), 75% screen width.
+  Fade in 600ms. Hold 1200ms.
+  "You just couldn't see it. Until now."
+  General Sans Regular, #2D2D2D (graphite), 70% width.
+  Fade in 600ms. Hold 800ms.
+
+---
+
+SCENE 7 (28.0–34.0s): BRAND LOCK-UP + CTA
+
+[Phase A: 28.0–29.5s]
+- All previous content fades out 500ms. WAIT 400ms.
+- Off-white (#FAFAF8) canvas, clean.
+- "ENTROPY" fades in, center-screen, upper third.
+  General Sans Bold, #1A3A3A (deep teal), 60% screen width, letter-spacing 8px.
+  Fade in 800ms. Hold 400ms.
+
+[Phase B: 29.5–31.0s]
+- ONLY THEN: Below ENTROPY:
+  "Your lifestyle, redesigned"
+  General Sans Regular, #2D2D2D, 55% screen width.
+  Fade in 600ms. Hold 400ms.
+
+[Phase C: 31.0–32.0s]
+- ONLY THEN: A thin horizontal line (same as the divider, callback) draws
+  beneath the tagline. 40% width, centered. Drawing 500ms.
+- WAIT 400ms.
+- Below the line: "Your architecture starts here."
+  General Sans Medium, #E8A86B (soft amber), 50% screen width.
+  Fade in 500ms.
+
+[Phase D: 32.0–34.0s]
+- ONLY THEN: At bottom of screen:
+  "entropylifestyle.com"
+  General Sans Regular, #6B6B6B, 45% screen width.
+  Fade in 400ms.
+- Hold ALL elements for full 2 seconds.
+- End frame.
+
+---
+
+[Brand Assets to Upload]:
+- ENTROPY wordmark (or use text generation)
+- JetBrains Mono Bold font file
+
+[Post-Generation Adjustments]:
+- Verify all beat transitions have visible 400ms pauses
+- Check that no two animations overlap in any frame
+- Verify zone colors match exact hex codes
+- Confirm the divider-to-curve reveal transition is smooth
+- Ensure insight annotations are centered ON the divider line
+- Test at 720p first, upscale winner to 1080p
+```
+
+### What Worked
+- Split-screen format is a genuine creative first — nothing in the series looks like this
+- The "schedule vs. data" parallel creates an immediate "aha" moment
+- Insight annotations ON the divider line are a strong narrative device
+- The reveal (data expanding, schedule shrinking) is the entropy→order moment
+- Color-coded zone progression (green → ochre → blue) is instantly readable
+- "Recovery isn't a break. It's architecture." is the strongest single line yet
+- "Your architecture starts here" is a CTA that sells identity, not features
+
+### What to Improve for Next Iteration
+- 34 seconds is long — test whether attention holds through all 9 beats
+- The beat pattern (activity → data → fade → repeat) could feel repetitive —
+  vary the animation style between beats if possible
+- Consider whether 7 beats + 2 cut would be tighter without losing impact
+- The reveal transition needs to feel magical, not mechanical — test carefully
+
+### Content Strategy Notes
+- This is the FIRST piece that bridges TOFU→MOFU territory
+- It's still awareness-level (doesn't explain HOW the system works) but
+  teases the depth of data ENTROPY provides
+- The schedule-vs-data framing sets up future MOFU content perfectly:
+  "Here's what happened on a great day → here's how to engineer one"
+- MOFU follow-up candidates:
+  - "The anatomy of a recovery block" (protocol deep dive)
+  - "How your morning protocol builds compound energy" (mechanism education)
+  - "Your first week in ENTROPY" (onboarding walkthrough)
+
+### Creative Notes for Future Reference
+- Split-screen formats create natural visual tension — use for comparison content
+- Synchronized beats (parallel layers) are more demanding to produce but more
+  rewarding to watch than sequential scenes
+- Insight annotations as "interrupts" (appearing on the divider) break the
+  pattern rhythm and create micro-hooks within the piece
+- The "reveal" (one layer expanding, other shrinking) is a new transition type
+  that could become a signature move for data-centric content
+- "Architecture" as a metaphor for energy management landed strongly —
+  worth building an entire vocabulary around (foundation, blueprints, load-bearing)
+- Zone color progression (green→ochre→blue) across time creates a visual
+  shorthand that should be consistent across all future pieces
 
 ---
 
